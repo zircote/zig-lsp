@@ -1,6 +1,6 @@
 {
   "name": "zig-lsp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Zig language server plugin for Claude Code with ZLS integration and automated hooks for formatting and building",
   "author": {
     "name": "zircote",
